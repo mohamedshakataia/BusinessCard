@@ -1,17 +1,23 @@
-# businesscard
+# 📇 Business Card
 
-A new Flutter project.
+A simple Flutter application for displaying a digital personal business card with contact details.
 
-## Getting Started
+## 🎨 Features
 
-This project is a starting point for a Flutter application.
+* 🖼️ Display personal profile photo with custom circular borders.
+* ✍️ Show developer name using custom typography (`Pacifico` font).
+* 💼 Display job title (`Flutter Developer`).
+* 📞 Display contact information using clean `Card` and `ListTile` widgets.
+* 🎨 Simple and attractive user interface with custom background colors.
+* 🧩 Built using reusable Flutter widgets.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* Flutter
+* Dart
+* Material Design
+* Custom Fonts
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🎯 Project Purpose
+
+This project was created to practice Flutter fundamentals, including widget composition, custom fonts integration, asset handling, and building clean UI layouts.
